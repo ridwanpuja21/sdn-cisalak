@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "tanggal": "10 Mei 2026",
+    "judul": "Penerimaan Peserta Didik Baru (PPDB) Tahun Ajaran 2026/2027",
+    "gambar": "images/foto_ks.jpeg",
+    "ringkasan": "Informasi alur pendaftaran, persyaratan berkas, dan jadwal seleksi calon siswa baru SDN Cisalak.",
+    "isi": "Selamat datang di informasi pendaftaran PPDB SDN Cisalak. Untuk tahun ajaran 2026/2027, kami membuka 2 rombongan belajar baru. Persyaratan berkas mencakup Akta Kelahiran, Kartu Keluarga, dan pas foto 3x4. Pendaftaran dapat dilakukan langsung di sekretariat sekolah setiap jam kerja."
+  },
+  {
+    "id": "2",
+    "tanggal": "28 April 2026",
+    "judul": "Juara 1 Lomba Literasi & Pidato Tingkat Kecamatan",
+    "gambar": "foto-lomba.jpg",
+    "ringkasan": "Selamat kepada perwakilan siswa SDN Cisalak yang telah berhasil meraih prestasi membanggakan.",
+    "isi": "SDN Cisalak kembali mengukir prestasi di tingkat kecamatan. Perwakilan siswa kelas 5 berhasil membawa pulang piala Juara 1 dalam kategori Lomba Pidato dan Literasi Bahasa Indonesia. Pihak sekolah mengucapkan terima kasih atas bimbingan para guru dan dukungan orang tua."
+  },
+  {
+    "id": "3",
+    "tanggal": "15 April 2026",
+    "judul": "Kegiatan Pembiasaan Budi Pekerti & Pentas Seni Siswa",
+    "gambar": "foto-pentas-seni.jpg",
+    "ringkasan": "Dokumentasi keseruan acara kebersamaan dan unjuk bakat seni dari kelas 1 hingga kelas 6.",
+    "isi": "Kegiatan pentas seni tahunan berlangsung meriah di halaman SDN Cisalak. Acara diisi dengan tarian tradisional, pertunjukan musik angklung, dan pembacaan puisi oleh para siswa. Kegiatan ini bertujuan untuk mengasah rasa percaya diri dan melestarikan budaya lokal."
+  }
+]
