@@ -111,8 +111,8 @@ img {
   background-image:
     linear-gradient(#e2e8f0 1px, transparent 1px),
     linear-gradient(90deg, #e2e8f0 1px, transparent 1px);
-  background-size: 80px 80px;
-  opacity: 0.8;
+  background-size: 100px 100px;
+  opacity: 0.3;
   z-index: 1;
 }
 .hero-content {
